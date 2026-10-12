@@ -4,9 +4,9 @@
   </a>
 </div>
 
-#  👁️ Olá :) eu sou a Luana
+#  👁️ Hi :) I am Luana
 
-<p> Sou estudante de Ciência da Computação, apaixonada por tecnologia e aprendizado contínuo. Tenho experiência com desenvolvimento Front-End e criação de interfaces web, mas meu principal foco está em Cybersegurança, área na qual busco aprofundar cada vez mais meus conhecimentos em segurança ofensiva, defensiva e proteção de sistemas </p>
+<p> I am a computer science student who is passionate about technology. I have experience in front-end development and web interface design, but my main focus is on cybersecurity—an area in which I am seeking to continually deepen my knowledge of offensive and defensive security and system protection. </p>
  
 #
 
