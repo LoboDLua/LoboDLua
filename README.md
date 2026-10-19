@@ -4,7 +4,14 @@
   </a>
 </div>
 
-#  👁️ Hi :) I am Lua
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LoboDLua/LoboDLua/main/assets/nymos.gif" width="100%">
+</div>
+
+<h1 align="center">👁️ LUA LOBO 👁️</h1>
+<h3 align="center">Front-End Developer | Cybersecurity Student</h3>
+
+# 
 
 <p> I am a computer science student who is passionate about technology. I have experience in front-end development and web interface design, but my main focus is on cybersecurity—an area in which I am seeking to continually deepen my knowledge of offensive and defensive security and system protection. </p>
  
@@ -74,3 +81,4 @@
 <h3 align="left">GitHub Stats</h3>
 
 <a href="https://github.com/LoboDLua/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LoboDLua&show_icons=true&include_all_commits=true&theme=shadow_red&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/LoboDLua/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoboDLua&layout=compact&theme=shadow_red&hide_border=true" /></a> |
+
