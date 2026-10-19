@@ -4,9 +4,9 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/LoboDLua/LoboDLua/main/assets/nymos.gif" width="100%">
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LoboDLua/LoboDLua/main/assets/nymos.gif" width="450">
+</p>
 
 <h1 align="center">👁️ LUA LOBO 👁️</h1>
 <h3 align="center">Front-End Developer | Cybersecurity Student</h3>
