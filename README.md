@@ -4,13 +4,63 @@
   </a>
 </div>
 
-#  👁️ Hi :) I am Luana
+#  👁️ Hi :) I am Lua
 
 <p> I am a computer science student who is passionate about technology. I have experience in front-end development and web interface design, but my main focus is on cybersecurity—an area in which I am seeking to continually deepen my knowledge of offensive and defensive security and system protection. </p>
  
 #
 
-<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
+# 👁️ Projects
+
+<h2> 🛡️ Personal DNS Sinkhole & Mesh VPN Server (Home Lab) </h2>
+
+<h3>📌 Project Overview </h3>
+
+<p> A self-hosted, lightweight Home Lab built on an Orange Pi to serve as a network-wide ad blocker and secure DNS resolver. By integrating a zero-trust Mesh VPN, this setup allows all authorized personal devices (smartphones, laptops) to benefit from secure, ad-free browsing from anywhere in the world, even on public Wi-Fi or cellular networks (4G/5G). </p>
+
+<h3>🛠️ Hardware & Tech Stack</h3>
+
+<ul>
+<li>Hardware: Orange Pi PC</li>
+<li>OS: Armbian Linux</li>
+<li>DNS Sinkhole: Pi-hole</li>
+<li>Network / VPN: Tailscale (WireGuard-based Mesh VPN)</li>
+<li>CLI Dashboard: tmux (terminal multiplexer) + btop (system monitor)</li>
+</ul>
+
+<h3>✨ Key Features</h3>
+
+<ul>
+<li>Global Ad & Tracker Blocking</li>
+<li>Secure Remote Access</li>
+</ul>
+
+#
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-line.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-plain.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-plain.svg" width="50px"/>
+          
+          
+          
+          
+          
+          
+
+</div>
+
+
+    
 
 <h3 align="left">Connect with me!</h3>
 
@@ -40,4 +90,3 @@
   />
 
 </p>
-
