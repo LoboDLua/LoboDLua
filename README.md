@@ -11,7 +11,7 @@
 <h1 align="center">👁️ LUA D LOBO 👁️</h1>
 
 <h3 align="center">
-Front-End Developer | Cybersecurity Student
+Cybersecurity Student | Front-End Developer
 </h3>
 
 # 
